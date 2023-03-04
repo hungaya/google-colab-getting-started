@@ -20,10 +20,18 @@ Click vào nút `Install` để thực hiện kết nối Google Colab đến t�
 
 ## Bước 4:
 
-Cửa sổ popup xuất hiện để thực hiện xác nhận quyền truy xuất, click vào tài khoản Google liên kết đến Google Drive hiện tại.
+Cửa sổ xác nhận tiếp tục xác thực quyền truy xuất, click nút `Continue` để chuyển sang cửa sổ đăng nhập Google/
+
+![fig4](https://github.com/hungaya/google-colab-getting-started/blob/main/img/permission.png?raw=true)
+
+## Bước 5:
+
+Cửa sổ popup xuất hiện để thực hiện đăng nhập tài khoản Google, click vào tài khoản Google liên kết đến Google Drive hiện tại.
 
 ![fig5](https://github.com/hungaya/google-colab-getting-started/blob/main/img/google-signin.png?raw=true)
 
 # Cách gỡ bỏ Google Colab khỏi Google Drive
 
 Thực hiện tương tự các bước 1, 2, 3. Tuy nhiên ở Bước 3, nút `Uninstall` xuất hiện thay vì nút `Install`. Click vào nút `Uninstall` để gỡ kết nối Google Colab đến tài khoảng Google Drive.
+
+![fig6](https://github.com/hungaya/google-colab-getting-started/blob/main/img/colab-uninstall.png?raw=true)
