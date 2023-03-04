@@ -32,6 +32,6 @@ Cửa sổ popup xuất hiện để thực hiện đăng nhập tài khoản Go
 
 # Cách gỡ bỏ Google Colab khỏi Google Drive
 
-Thực hiện tương tự các bước 1, 2, 3. Tuy nhiên ở Bước 3, nút `Uninstall` xuất hiện thay vì nút `Install`. Click vào nút `Uninstall` để gỡ kết nối Google Colab đến tài khoảng Google Drive.
+Thực hiện tương tự các bước 1, 2, 3. Tuy nhiên ở Bước 3, nút `Uninstall` xuất hiện thay vì nút `Install`. Click vào nút `Uninstall` để gỡ kết nối Google Colab đến tài khoản Google Drive.
 
 ![fig6](https://github.com/hungaya/google-colab-getting-started/blob/main/img/colab-uninstall.png?raw=true)
